@@ -1,12 +1,5 @@
 import java.util.Random;
 
-/**
- * D-Heap
- * 
-avivhaliva  312497613 
-tomeretiel  204152979 
- */
-
 public class DHeap
 {
     private int size, max_size, d;
